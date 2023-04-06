@@ -10,4 +10,5 @@ Tecnologias utilizadas:
 - Cors;
 - Xampp;
 - HTML;
+- CSS;
 - Bootstrap;
